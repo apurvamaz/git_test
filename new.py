@@ -12,6 +12,8 @@ print("*"*50)
 for j in range(1,5):
     print(j)
 
+print("*"*50)
+
 
 
 
